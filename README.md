@@ -55,4 +55,3 @@ Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
 
 ## Questions
 - [GitHub](https://github.com/kg-phantom)
-- [Email](mailto:ksurbayan@gmail.com)
